@@ -1,0 +1,1 @@
+conaole.log(" merhaba yoldas!")
